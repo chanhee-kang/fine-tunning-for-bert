@@ -1,2 +1,3 @@
-# fine-tuning-for-BERT
-Fine tuning for BERT
+# BERT Model Fine tunning
+fine tunning test for bert
+still testing...
